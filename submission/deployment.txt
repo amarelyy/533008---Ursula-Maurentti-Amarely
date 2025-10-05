@@ -1,11 +1,3 @@
-## Transaction History Deployment
-- Transaction Hash: 0xb59323dd6d31ff34306d5c49b7b0afe87ed2eff36d132b576236d6cc24f7c8c8
-- Etherscan: https://sepolia.etherscan.io/tx/0xb59323dd6d31ff34306d5c49b7b0afe87ed2eff36d132b576236d6cc24f7c8c8
-
-## Document Notarization
-- Transaction Hash: 0x90f5c77185c0e7369b3b9b75cd662db96a1dba73f0badb57224a0a22aa083448
-- Etherscan: https://sepolia.etherscan.io/tx/0x90f5c77185c0e7369b3b9b75cd662db96a1dba73f0badb57224a0a22aa083448
-
-## Contract Verification
+  Contract Verification
 - Transaction Hash: 0x7B779071D3Cef5f8d62413891b19d7c5d1f6b621
 - Etherscan Contract: https://sepolia.etherscan.io/address/0x7B779071D3Cef5f8d62413891b19d7c5d1f6b621
