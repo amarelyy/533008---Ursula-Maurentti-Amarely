@@ -1,4 +1,4 @@
-**Project Reflection**
+## **Project Reflection**
 
  This smart contract project provided invaluable hands-on experience with blockchain development. I learned the complete lifecycle of creating a decentralized application, from writing Solidity code to deploying it on the Sepolia testnet. The most challenging aspect was navigating the deployment process and implementing the blockchain theory taught in the classroom into a real application. But overcoming these hurdles gave me practical insights.
 	
